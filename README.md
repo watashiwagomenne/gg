@@ -46,6 +46,7 @@ Your Bots Has been installed yet, But Bots still cannot running yet
 You must generated token and put it on the Bots
 
 Steps:
+```
 1.Go To /linetcr_remastered/Api/channel.py
 2.Check LA in there and copy that, ex: CHROMEOS\t1.4.17\tChrome_OS\t1
 3.Open your browser on your PC
@@ -59,6 +60,7 @@ Steps:
 11.Copy the Auth Token
 12.Open Your terminal
 13.Run the command "nano line.py"
-14.Replace "Token" in token="Token" with your token
+14.Replace "Token" in token="Token" with your token\n
 15.Click ctrl+x
 16.Your Bots has been set up
+```

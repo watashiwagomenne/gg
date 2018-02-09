@@ -50,7 +50,7 @@ Steps:
 1.Go To /linetcr_remastered/Api/channel.py
 2.Check LA in there and copy that, ex: CHROMEOS\t1.4.17\tChrome_OS\t1
 3.Open your browser on your PC
-4.Go To [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](http://101.255.95.249:6969/)
+4.Go To http://101.255.95.249:6969/
 5.Input your name there
 6.Input Your LA by replace the LA before "IOSIPAD\t7.18.0\tiPhone OS\t11.12.1"
 7.Click Login

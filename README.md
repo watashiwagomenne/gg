@@ -9,21 +9,21 @@ You must install it correctly, if not the program cannot be run
 ### Installing Packages
 
 If Bots running on Termux:
-"""
+```
 apt upgrade -y && apt update -y
 pkg install python2 -y
 pkg install git -y
 pkg install nano -y
-"""
+```
 
 If Bots running on Virtual Private Server:
-"""
+```
 sudo apt-get upgrade -y
 sudo apt-get update -y
 sudo apt-get install python-software-properties -y
 sudo apt-get install git -y
 sudo apt-get install nano -y
-"""
+```
 
 Warning! :
 If you run command "sudo apt-get update -y", it would take much spaces
@@ -32,13 +32,13 @@ Do With Your Own Risk
 ### Installing Modules
 
 If Installing on termux:
-"""
+```
 pip2 install -r req.txt
-"""
+```
 If Installing on Virtual Private Server:
-"""
+```
 sudo pip install -r req.txt
-"""
+```
 
 ## Getting Started
 
